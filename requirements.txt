@@ -2,4 +2,5 @@ Django>=1.11.27
 python-postmark==0.4.10
 requests==2.20.0
 django-cors-middleware ff
- hh 
+ hh  
+ ss
